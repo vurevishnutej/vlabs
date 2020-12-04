@@ -31,3 +31,9 @@
 	left: auto;
 	right: 0px;
 }
+@media only screen and (max-width: 991px)
+.footer-div {
+    background-size: cover !important;
+    /* position: absolute; */
+    bottom: 0;
+	    }
