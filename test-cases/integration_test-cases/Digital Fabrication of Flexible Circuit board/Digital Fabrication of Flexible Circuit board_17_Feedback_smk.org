@@ -1,0 +1,28 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To give  the feedback of the Digital Fabrication of Flexible Circuit board experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/fab-laboratory-coep/blob/master/test-cases/integration_test-cases/Digital Fabrication of Flexible Circuit board/Digital Fabrication of Flexible Circuit board_01_Usability_smk.org][Digital Fabrication of Flexible Circuit board_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the feed back link 
+  2. It should re-direct to the feedback page
+
+* Expected result
+  1. Review questions page should be opened
+  2. Content should be present with no distortions and Junk's characters
+
+* Review/comments
+
+

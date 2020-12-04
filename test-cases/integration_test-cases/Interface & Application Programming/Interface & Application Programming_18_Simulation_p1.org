@@ -1,0 +1,40 @@
+* Author: Nihanth
+* Date Created: 02 May 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To simulate the Interface & Application Programming experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/fab-laboratory-coep/blob/master/test-cases/integration_test-cases/Interface & Application Programming/Interface & Application Programming_01_Usability_smk.org][Interface & Application Programming_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the simulation link 
+  2. It should re-direct to the simulation page
+  3. Click on the picture displayed on the screen to start the simulation
+  4. A new tab will be opened with simulation process 
+  5. Click on the Pause button and then click on the Play button.
+  6. Click on the Next button and then click on the Previous button
+  7. Now click on the Play button and click on the audio button.
+  8. Click on the Menu button
+
+* Expected result
+  1. Simulation page should be opened
+  2. A simulator link should be present
+  3. Content should be present with no distortions and Junk characters
+  4. When we click on the picture which is displayed on the screen  a new tab should be opened and the video should start playing
+  5. When we click on the pause button, the video should be paused and when we click on the play button, the video should start playing
+  6. When we click on the next button, the next video should start playing and when we click on the previous button, the previous video should start playing
+  7. When we click on the play button, nothing should be happen and when we click on the audio button if the audio is on then it should set to off position and vice-versa
+  8. When we click on the Menu button video should stop playing and Menu/home page should be displayed on the screen
+
+* Review/comments
+
+
